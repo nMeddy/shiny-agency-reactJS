@@ -1,11 +1,13 @@
 import React from "react";
+import Freelances from "../Freelances/Freelances";
+
 
 function Home(){
     // state
     // comportement
     // rendu
     return <div>
-        <h1>Home page !</h1>
+        <Freelances/>
     </div>
 }
 

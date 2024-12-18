@@ -7,7 +7,7 @@ function Header(){
     // Render
     return <nav>
         <Link to="/">Acceuil</Link>
-        <Link to="/questionnaire">Questionnaire</Link>
+        <Link to="/questionnaire/1">Questionnaire</Link>
     </nav>
 }
 
